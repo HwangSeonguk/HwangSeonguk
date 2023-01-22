@@ -1,7 +1,10 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=BE%20Developer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=HwangSeonguk&descAlignY=70">
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=BE%20Developer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=HwangSeonguk&descAlignY=70"><br>
+	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </div>
+
 <!--
 **HwangSeonguk/HwangSeonguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
