@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=BE%20Developer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=seonguk&descAlignY=70">
+</div>
 <!--
 **HwangSeonguk/HwangSeonguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
