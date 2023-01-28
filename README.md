@@ -5,6 +5,7 @@ language<br><br>
 <img height="50" width="70" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
 <img height="50" width="70" src="https://cdn.simpleicons.org/css3/1572B6" />
 <img height="50" width="70" src="https://cdn.simpleicons.org/html5/E34F26" />
+<img height="50" width="70" src="https://cdn.simpleicons.org/jquery/0769AD" />
 <br><br>
 database<br><br>
 <img height="50" width="70" src="https://cdn.simpleicons.org/mysql/4479A1" />
